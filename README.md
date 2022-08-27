@@ -9,8 +9,8 @@
   
  ## My Work Experience:
 - ☕ Built Site for [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
-- 🙋 Ex Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
-- 🙋 Working at TechnoSpark & Co. as Next JS Developer.
+- 👨‍💻 Ex Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
+- 👨‍💻 Working at TechnoSpark & Co. as Next JS Developer.
 - 🚀 Built Multiple Websites for Several businesses.
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
